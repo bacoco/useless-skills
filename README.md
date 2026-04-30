@@ -13,7 +13,11 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin marketpla
 
 ## Why
 
-Because every ecosystem deserves its own curated, semver-versioned, peer-reviewed registry of plugins that do absolutely nothing.
+People are building marketplaces of skills. Repos of repos. Awesome-lists of awesome-lists of plugins. Registries of registries. Curated collections of curated collections. The entire AI tooling ecosystem is an infinite recursion of repos pointing to other repos that point to other repos.
+
+We looked at all that infrastructure — the manifests, the validation, the semver, the governance — and we thought: *this is being wasted on useful things.*
+
+So here's a marketplace. With a registry. And validation. And versioning. For plugins that do absolutely nothing.
 
 ---
 
