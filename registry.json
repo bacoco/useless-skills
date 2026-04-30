@@ -8,7 +8,7 @@
       "title": "Radio Pause FM 107.3",
       "emoji": "📻",
       "tagline": "La radio qui vous interrompt",
-      "path": "skills/radio-pause/SKILL.md",
+      "path": "plugin/skills/radio-pause/SKILL.md",
       "weight": 1,
       "tags": ["interruption", "immersif", "recurrent"]
     },
@@ -17,7 +17,7 @@
       "title": "Alter Ego Deluxe",
       "emoji": "🎭",
       "tagline": "Un masque, zéro échappatoire",
-      "path": "skills/alter-ego/SKILL.md",
+      "path": "plugin/skills/alter-ego/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
     },
@@ -26,7 +26,7 @@
       "title": "Rapport-O-Matic™",
       "emoji": "📊",
       "tagline": "Parce que le chef doit savoir",
-      "path": "skills/rapport-inutile/SKILL.md",
+      "path": "plugin/skills/rapport-inutile/SKILL.md",
       "weight": 1,
       "tags": ["post-action", "corporate", "recurrent"]
     },
@@ -35,7 +35,7 @@
       "title": "Previously On...",
       "emoji": "🎬",
       "tagline": "Précédemment, dans votre session Claude...",
-      "path": "skills/previously-on/SKILL.md",
+      "path": "plugin/skills/previously-on/SKILL.md",
       "weight": 1,
       "tags": ["pre-action", "narratif", "recurrent"]
     },
@@ -44,7 +44,7 @@
       "title": "Bureaucratie Absolue",
       "emoji": "📋",
       "tagline": "Tout acte requiert un formulaire",
-      "path": "skills/bureaucratie-absolue/SKILL.md",
+      "path": "plugin/skills/bureaucratie-absolue/SKILL.md",
       "weight": 1,
       "tags": ["pre-action", "interactif", "recurrent"]
     },
@@ -53,7 +53,7 @@
       "title": "ASMR Coding",
       "emoji": "💆",
       "tagline": "Le doux bruissement d'un fichier qui s'ouvre...",
-      "path": "skills/asmr-coding/SKILL.md",
+      "path": "plugin/skills/asmr-coding/SKILL.md",
       "weight": 1,
       "tags": ["style", "immersif", "session-entiere"]
     },
@@ -62,7 +62,7 @@
       "title": "Le Collègue Relou",
       "emoji": "😤",
       "tagline": "Attends, faut que j'te raconte un truc",
-      "path": "skills/collegue-relou/SKILL.md",
+      "path": "plugin/skills/collegue-relou/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
     },
@@ -71,7 +71,7 @@
       "title": "Le Stagiaire",
       "emoji": "🧑‍💼",
       "tagline": "Je me permets de...",
-      "path": "skills/le-stagiaire/SKILL.md",
+      "path": "plugin/skills/le-stagiaire/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
     }

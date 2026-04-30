@@ -231,7 +231,7 @@ Pick 2 (or 3 for chaos) skills from above and apply all their rules simultaneous
 
 The registry at github.com/Bacoco/useless-skills is open. Anyone can submit a new skill:
 
-1. Add a skill folder in `skills/[skill-name]/SKILL.md`
+1. Add a skill folder in `plugin/skills/[skill-name]/SKILL.md`
 2. Add an entry to `registry.json`
 3. Open a PR
 

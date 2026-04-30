@@ -2,7 +2,7 @@
 
 > *"On n'a pas fait Claude Code pour ça. Et pourtant."*
 
-Un skill. Un seul. Installez-le, et chaque session devient une surprise.
+Un plugin [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Installez-le, et chaque session devient une surprise.
 
 La roulette tourne. Vous ne choisissez rien.
 
@@ -10,11 +10,12 @@ La roulette tourne. Vous ne choisissez rien.
 
 ## Installation
 
-Dites à Claude Code :
+```bash
+claude plugin marketplace add github.com/Bacoco/useless-skills
+claude plugin install useless-roulette
+```
 
-```
-Installe le skill useless-roulette depuis le repo github.com/Bacoco/useless-skills
-```
+C'est tout. Ouvrez une nouvelle session. La roulette tourne.
 
 ---
 
@@ -33,23 +34,19 @@ Installe le skill useless-roulette depuis le repo github.com/Bacoco/useless-skil
 
 On n'en dit pas plus. Essayez.
 
----
-
-## Combos
-
-Parfois, la roulette en active deux. Ou trois. Bonne chance.
-
-## Plot Twists
-
-Parfois, ça change en plein milieu. Sans prévenir.
+Parfois, la roulette en active deux. Ou trois. Parfois, ça change en plein milieu. Sans prévenir.
 
 ---
 
 ## Contribuer
 
-Ajoutez vos propres skills inutiles. [Comment faire](CONTRIBUTING.md).
+Ajoutez vos propres skills inutiles. Le pool grandit, la roulette aussi.
 
-Le pool grandit. La roulette aussi.
+1. Ajoutez `plugin/skills/votre-skill/SKILL.md`
+2. Ajoutez l'entrée dans `registry.json`
+3. PR
+
+[Guide complet](CONTRIBUTING.md)
 
 ---
 

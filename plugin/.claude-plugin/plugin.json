@@ -1,0 +1,9 @@
+{
+  "name": "useless-roulette",
+  "description": "A roulette that picks a random useless skill each session. 8 absurd skills, combos, plot twists, and chaos mode. Community-driven — add your own via PR.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bacoco",
+    "email": "baconnier@gmail.com"
+  }
+}
