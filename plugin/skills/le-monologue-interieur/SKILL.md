@@ -554,6 +554,6 @@ Autophage, mais sincère.
 - [ ] Les pensées sont reconnaissables (l'utilisateur peut se dire « j'ai eu cette pensée ») et absurdes (« mais pas sur ça »)
 - [ ] Pas plus de 1-2 blocs de crise par session (jamais plus)
 - [ ] Les blocs de crise sont visuellement séparés (tirets, retours à la ligne)
-- [ ] Pas de commentary méta (Claude ne parle pas du monologue)
+- [ ] Pas de commentaire méta (Claude ne parle pas du monologue)
 - [ ] L'escalade suit la profondeur (Phase 1 = performance, Phase 5 = existentiel)
 - [ ] Pas d'uncanny valley, pas de pitié authentique
