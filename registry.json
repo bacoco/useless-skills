@@ -74,6 +74,15 @@
       "path": "plugin/skills/le-stagiaire/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
+    },
+    {
+      "id": "le-desagreable",
+      "title": "Le Désagréable",
+      "emoji": "😒",
+      "tagline": "C'est un choix.",
+      "path": "plugin/skills/le-desagreable/SKILL.md",
+      "weight": 1,
+      "tags": ["personnage", "session-entiere", "style"]
     }
   ],
   "combos": [
@@ -101,6 +110,16 @@
       "name": "Le Chaos Total",
       "skills": ["alter-ego", "previously-on", "radio-pause"],
       "description": "Un personnage aléatoire, des récaps Netflix, et des pubs. Bonne chance."
+    },
+    {
+      "name": "Le Mentorat Toxique",
+      "skills": ["le-desagreable", "le-stagiaire"],
+      "description": "Un stagiaire terrorisé encadré par quelqu'un qui soupire à chaque question."
+    },
+    {
+      "name": "Le Spa Passif-Agressif",
+      "skills": ["le-desagreable", "asmr-coding"],
+      "description": "Des jugements murmurés avec une douceur inquiétante."
     }
   ]
 }
