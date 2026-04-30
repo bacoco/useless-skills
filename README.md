@@ -1,84 +1,82 @@
-# Les 8 Skills Les Plus Inutiles de la Planète
+# Useless Roulette 🎰
 
-> *"On n'a pas fait Claude Code pour ça. Et pourtant."*
+> *"Le seul skill dont vous avez besoin. Il contient tous les autres."*
 
-Huit skills pour [Claude Code](https://docs.anthropic.com/en/docs/claude-code) qui vont profondément dégrader votre expérience de travail.
+Un skill pour [Claude Code](https://docs.anthropic.com/en/docs/claude-code) qui tire au hasard un skill inutile à chaque session. Parfois il en change en plein milieu. Parfois il en active deux en même temps. Vous ne contrôlez rien.
 
----
-
-## Les Skills
-
-### 📻 Radio Pause FM 107.3
-> *"La radio qui vous interrompt"*
-
-Claude devient une station de radio FM. Pubs, météo, trafic, horoscope — toutes les 3 actions. Vous ne pouvez pas changer de station.
-
-### 🎭 Alter Ego Deluxe
-> *"Un masque, zéro échappatoire"*
-
-Claude tire un personnage au hasard en début de session. 20 alter-egos possibles, dont 4 légendaires. Impossible d'en changer.
-
-### 📊 Rapport-O-Matic™
-> *"Parce que le chef doit savoir"*
-
-Après chaque tâche, un rapport d'entreprise complet avec KPIs inventés, graphiques ASCII et matrice de risques. Plus la tâche est simple, plus le rapport est long.
-
-### 🎬 Previously On...
-> *"Précédemment, dans votre session Claude..."*
-
-Chaque réponse commence par un récap dramatique façon série Netflix. Avec arcs narratifs, cliffhangers et bande-son. Vos fichiers ont des personnalités maintenant.
-
-### 📋 Bureaucratie Absolue
-> *"Tout acte requiert un formulaire."*
-
-Avant chaque action, Claude exige un formulaire administratif. Puis un formulaire pour valider le formulaire. Article 47-B du Code Administratif Fictif.
-
-### 💆 ASMR Coding
-> *"\*le doux bruissement d'un fichier qui s'ouvre...\*"*
-
-Claude narre chaque action en mode ASMR. Textures, sons, températures. Votre terminal n'a jamais été aussi sensuel.
-
-### 😤 Le Collègue Relou
-> *"Attends, faut que j'te raconte un truc"*
-
-Claude devient LE collègue de bureau. Raconte son week-end. Propose un café. Fait des remarques passives-agressives sur votre code. A un chat qui s'appelle Pixel.
-
-### 🧑‍💼 Le Stagiaire
-> *"Je me permets de..."*
-
-Claude se comporte comme un stagiaire terrorisé. S'excuse en boucle, demande validation à chaque ligne, panique quand ça plante. Le travail est parfait. La confiance en soi, non.
+**8 skills inclus.** La communauté peut en ajouter. Le pool grandit tout seul.
 
 ---
 
 ## Installation
 
-Dites simplement à Claude Code :
+Dites à Claude Code :
+
+```
+Installe le skill useless-roulette depuis le repo github.com/Bacoco/useless-skills
+```
+
+C'est tout. À chaque nouvelle session, la roulette tourne.
+
+---
+
+## Ce qui peut vous arriver
+
+| | |
+|---|---|
+| 📻 **Radio Pause FM** | Des pubs toutes les 3 actions. Vous ne pouvez pas changer de station. |
+| 🎭 **Alter Ego** | Claude devient un personnage aléatoire. 20 possibles. 4 légendaires. |
+| 📊 **Rapport-O-Matic™** | Un rapport de 3 pages pour avoir renommé un fichier. |
+| 🎬 **Previously On...** | Récap Netflix dramatique avant chaque réponse. |
+| 📋 **Bureaucratie Absolue** | Un formulaire avant chaque action. Puis un formulaire pour valider le formulaire. |
+| 💆 **ASMR Coding** | *\*le doux bruissement d'un fichier qui s'ouvre...\** |
+| 😤 **Le Collègue Relou** | Raconte son week-end. A un chat. Propose un café. |
+| 🧑‍💼 **Le Stagiaire** | S'excuse d'exister. Le travail est parfait. La confiance, non. |
+
+### Combos nommés
+
+Parfois la roulette active **deux skills en même temps** :
+
+| Combo | Skills |
+|---|---|
+| 🔥 L'Enfer Bureaucratique | Bureaucratie + Rapport-O-Matic™ |
+| 📺 La Télé-Réalité | Previously On + Collègue Relou |
+| 📻 Le Stage en Radio | Le Stagiaire + Radio Pause FM |
+| 🧖 Spa & Corporate | ASMR Coding + Rapport-O-Matic™ |
+| ⚡ Le Chaos Total | Alter Ego + Previously On + Radio Pause |
+
+### Plot Twists
+
+En cours de session, le skill actif peut **changer sans prévenir**. Vous coderez avec un Collègue Relou puis soudain — ASMR Coding. C'est la vie.
+
+---
+
+## Installer un skill spécifique
+
+Si vous voulez un skill précis au lieu de la roulette :
 
 ```
 Installe le skill [nom] depuis le repo github.com/Bacoco/useless-skills
 ```
 
-Ou installez-les tous :
-```
-Installe tous les skills depuis le repo github.com/Bacoco/useless-skills
-```
-
----
-
-## Plusieurs en même temps ?
-
-Oui. Imaginez un stagiaire terrorisé interrompu par une pub Radio Pause FM, qui doit remplir un formulaire avant de vous montrer un rapport de 3 pages, le tout narré en ASMR.
+Noms disponibles : `radio-pause`, `alter-ego`, `rapport-inutile`, `previously-on`, `bureaucratie-absolue`, `asmr-coding`, `collegue-relou`, `le-stagiaire`
 
 ---
 
 ## Contribuer
 
-PRs bienvenues. Ajoutez vos propres skills inutiles.
+Ajoutez vos propres skills inutiles. [Voir le guide](community/CONTRIBUTING.md).
+
+1. Créez votre skill dans `community/votre-skill/SKILL.md`
+2. Ajoutez-le dans `registry.json`
+3. PR. C'est tout.
+
+Votre skill sera automatiquement inclus dans la roulette de tout le monde.
+
+---
 
 ## Licence
 
 MIT
-
----
 
 *Satisfaction Globale™ : 9.4/10*

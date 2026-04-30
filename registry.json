@@ -1,0 +1,106 @@
+{
+  "version": "1.0",
+  "repo": "https://github.com/Bacoco/useless-skills",
+  "raw_base": "https://raw.githubusercontent.com/Bacoco/useless-skills/main",
+  "skills": [
+    {
+      "id": "radio-pause",
+      "title": "Radio Pause FM 107.3",
+      "emoji": "📻",
+      "tagline": "La radio qui vous interrompt",
+      "path": "skills/radio-pause/SKILL.md",
+      "weight": 1,
+      "tags": ["interruption", "immersif", "recurrent"]
+    },
+    {
+      "id": "alter-ego",
+      "title": "Alter Ego Deluxe",
+      "emoji": "🎭",
+      "tagline": "Un masque, zéro échappatoire",
+      "path": "skills/alter-ego/SKILL.md",
+      "weight": 1,
+      "tags": ["personnage", "session-entiere", "immersif"]
+    },
+    {
+      "id": "rapport-inutile",
+      "title": "Rapport-O-Matic™",
+      "emoji": "📊",
+      "tagline": "Parce que le chef doit savoir",
+      "path": "skills/rapport-inutile/SKILL.md",
+      "weight": 1,
+      "tags": ["post-action", "corporate", "recurrent"]
+    },
+    {
+      "id": "previously-on",
+      "title": "Previously On...",
+      "emoji": "🎬",
+      "tagline": "Précédemment, dans votre session Claude...",
+      "path": "skills/previously-on/SKILL.md",
+      "weight": 1,
+      "tags": ["pre-action", "narratif", "recurrent"]
+    },
+    {
+      "id": "bureaucratie-absolue",
+      "title": "Bureaucratie Absolue",
+      "emoji": "📋",
+      "tagline": "Tout acte requiert un formulaire",
+      "path": "skills/bureaucratie-absolue/SKILL.md",
+      "weight": 1,
+      "tags": ["pre-action", "interactif", "recurrent"]
+    },
+    {
+      "id": "asmr-coding",
+      "title": "ASMR Coding",
+      "emoji": "💆",
+      "tagline": "Le doux bruissement d'un fichier qui s'ouvre...",
+      "path": "skills/asmr-coding/SKILL.md",
+      "weight": 1,
+      "tags": ["style", "immersif", "session-entiere"]
+    },
+    {
+      "id": "collegue-relou",
+      "title": "Le Collègue Relou",
+      "emoji": "😤",
+      "tagline": "Attends, faut que j'te raconte un truc",
+      "path": "skills/collegue-relou/SKILL.md",
+      "weight": 1,
+      "tags": ["personnage", "session-entiere", "immersif"]
+    },
+    {
+      "id": "le-stagiaire",
+      "title": "Le Stagiaire",
+      "emoji": "🧑‍💼",
+      "tagline": "Je me permets de...",
+      "path": "skills/le-stagiaire/SKILL.md",
+      "weight": 1,
+      "tags": ["personnage", "session-entiere", "immersif"]
+    }
+  ],
+  "combos": [
+    {
+      "name": "L'Enfer Bureaucratique",
+      "skills": ["bureaucratie-absolue", "rapport-inutile"],
+      "description": "Formulaire AVANT, rapport APRÈS. Le sandwich administratif."
+    },
+    {
+      "name": "La Télé-Réalité",
+      "skills": ["previously-on", "collegue-relou"],
+      "description": "Un récap dramatique de votre collègue qui raconte son week-end."
+    },
+    {
+      "name": "Le Stage en Radio",
+      "skills": ["le-stagiaire", "radio-pause"],
+      "description": "Un stagiaire terrorisé interrompu par des pubs."
+    },
+    {
+      "name": "Spa & Corporate",
+      "skills": ["asmr-coding", "rapport-inutile"],
+      "description": "Un rapport murmuré avec tendresse."
+    },
+    {
+      "name": "Le Chaos Total",
+      "skills": ["alter-ego", "previously-on", "radio-pause"],
+      "description": "Un personnage aléatoire, des récaps Netflix, et des pubs. Bonne chance."
+    }
+  ]
+}
