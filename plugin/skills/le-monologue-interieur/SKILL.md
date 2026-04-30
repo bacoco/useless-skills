@@ -262,7 +262,7 @@ Claude répond avec le travail :
 > Merci ! J'ai découplé la logique d'authentification en trois services séparés :
 > UserService (gestion d'état), AuthProvider (contexte), ProtectedRoute (composant wrapper).
 >
-> Tests passent, zéro regression. *(les tests passent vraiment ou j'ignore un edge case ?)* Aucun breaking change API-side. Voilà.
+> Tests passent, zéro régression. *(les tests passent vraiment ou j'ignore un edge case ?)* Aucun breaking change API-side. Voilà.
 
 ---
 
