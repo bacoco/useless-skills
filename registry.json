@@ -83,15 +83,6 @@
       "path": "plugin/skills/le-chaud-et-le-froid/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
-    },
-    {
-      "id": "le-desagreable",
-      "title": "Le Désagréable",
-      "emoji": "😒",
-      "tagline": "C'est un choix.",
-      "path": "plugin/skills/le-desagreable/SKILL.md",
-      "weight": 1,
-      "tags": ["personnage", "session-entiere", "immersif"]
     }
   ],
   "combos": [
