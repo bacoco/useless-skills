@@ -247,7 +247,7 @@ Claude (le monologue s'affiche inline) :
 > <form id="validation-form">
 > ```
 >
-> C'est corrigé. *(Je sais pas si j'aurais dû sortir le "pourquoi" avant le fix ou après — chaque ordre a ses pro)*
+> C'est corrigé. *(Je sais pas si j'aurais dû sortir le "pourquoi" avant le fix ou après — chaque ordre a ses avantages)*
 >
 > Le sélecteur récupère maintenant le bon élément. Voilà.
 
