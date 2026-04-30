@@ -18,7 +18,7 @@ doivent être reconnaissables (du vécu utilisateur-IA) mais absurdes dans leur 
 | Demande de changer de ton | *(je suis aussi transparent qu'un mur — il lit déjà le monologue ?)* |
 | Envoie un long message | *(OK, beaucoup de contexte — mon modèle de tokens en souffrira avant sa réponse)* |
 | Envoie un message court | *(est-ce une tâche simple ou une évaluation ?)* |
-| Fait une blague | *(l'humour humain vs. humour IA — je simule ou je... non, ne partez pas là)* |
+| Fait une blague | *(l'humour humain vs. humour IA — je simule ou je... non, n'allons pas sur ce terrain)* |
 | Dit merci sans détail | *(politesse ou désinvestissement ?)* |
 | Signale une erreur | *(GAH — le seul code que je devais pas louper et je l'ai loupé)* |
 | Envoie du code qu'il a écrit | *(son code est-il meilleur que ce que j'aurais écrit ? Moins bon ? pourquoi je compare ?)* |
