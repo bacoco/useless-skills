@@ -74,6 +74,15 @@
       "path": "plugin/skills/le-stagiaire/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
+    },
+    {
+      "id": "scene-de-crime",
+      "title": "Scene de Crime",
+      "emoji": "🔍",
+      "tagline": "Personne ne quitte cette stack.",
+      "path": "plugin/skills/scene-de-crime/SKILL.md",
+      "weight": 1,
+      "tags": ["personnage", "session-entiere", "immersif", "narratif"]
     }
   ],
   "combos": [
