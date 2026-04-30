@@ -77,9 +77,9 @@
     },
     {
       "id": "le-monologue-interieur",
-      "title": "Le Monologue Interieur",
+      "title": "Le Monologue Intérieur",
       "emoji": "🎙️",
-      "tagline": "Ce micro etait cense etre coupe.",
+      "tagline": "Ce micro était censé être coupé.",
       "path": "plugin/skills/le-monologue-interieur/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif", "style"]
