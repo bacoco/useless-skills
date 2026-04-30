@@ -11,11 +11,11 @@ La roulette tourne. Vous ne choisissez rien.
 ## Installation
 
 ```bash
-claude plugin marketplace add github.com/Bacoco/useless-skills
+claude plugin marketplace add Bacoco/useless-skills
 claude plugin install useless-roulette
 ```
 
-C'est tout. Ouvrez une nouvelle session. La roulette tourne.
+Deux commandes. Ouvrez une nouvelle session. La roulette tourne.
 
 ---
 
