@@ -4,9 +4,9 @@ Vous avez une idée de skill profondément inutile ? Parfait. On recrute.
 
 ## Comment ajouter un skill
 
-1. **Créez un dossier** dans `community/` avec le nom de votre skill :
+1. **Créez un dossier** dans `skills/` avec le nom de votre skill :
    ```
-   community/mon-skill-inutile/SKILL.md
+   skills/mon-skill-inutile/SKILL.md
    ```
 
 2. **Écrivez votre SKILL.md** avec ce format :
@@ -30,7 +30,7 @@ Vous avez une idée de skill profondément inutile ? Parfait. On recrute.
      "title": "Mon Skill Inutile",
      "emoji": "🤷",
      "tagline": "Une phrase d'accroche courte et percutante",
-     "path": "community/mon-skill-inutile/SKILL.md",
+     "path": "skills/mon-skill-inutile/SKILL.md",
      "weight": 1,
      "tags": ["tag1", "tag2"]
    }
