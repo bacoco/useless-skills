@@ -74,6 +74,15 @@
       "path": "plugin/skills/le-stagiaire/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
+    },
+    {
+      "id": "le-monologue-interieur",
+      "title": "Le Monologue Interieur",
+      "emoji": "🎙️",
+      "tagline": "Ce micro etait cense etre coupe.",
+      "path": "plugin/skills/le-monologue-interieur/SKILL.md",
+      "weight": 1,
+      "tags": ["personnage", "session-entiere", "immersif", "style"]
     }
   ],
   "combos": [
