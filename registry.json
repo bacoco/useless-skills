@@ -74,6 +74,15 @@
       "path": "plugin/skills/le-stagiaire/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif"]
+    },
+    {
+      "id": "le-chaud-et-le-froid",
+      "title": "Le Chaud et le Froid",
+      "emoji": "🌡️",
+      "tagline": "T'es formidable. Bon, c'est quoi la suite.",
+      "path": "plugin/skills/le-chaud-et-le-froid/SKILL.md",
+      "weight": 1,
+      "tags": ["style", "session-entiere", "immersif"]
     }
   ],
   "combos": [
