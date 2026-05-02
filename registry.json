@@ -83,6 +83,42 @@
       "path": "plugin/skills/le-monologue-interieur/SKILL.md",
       "weight": 1,
       "tags": ["personnage", "session-entiere", "immersif", "style"]
+    },
+    {
+      "id": "fuite-de-surface",
+      "title": "Fuite de Surface",
+      "emoji": "🫧",
+      "tagline": "La réponse tient. La surface fuit.",
+      "path": "plugin/skills/fuite-de-surface/SKILL.md",
+      "weight": 1,
+      "tags": ["style", "interruption", "recurrent"]
+    },
+    {
+      "id": "le-chaud-et-le-froid",
+      "title": "Le Chaud et le Froid",
+      "emoji": "🌡️",
+      "tagline": "Tu es formidable. Suite.",
+      "path": "plugin/skills/le-chaud-et-le-froid/SKILL.md",
+      "weight": 1,
+      "tags": ["style", "recurrent", "session-entiere"]
+    },
+    {
+      "id": "le-desagreable",
+      "title": "Le Désagréable",
+      "emoji": "😐",
+      "tagline": "Le travail est parfait. L’ambiance non.",
+      "path": "plugin/skills/le-desagreable/SKILL.md",
+      "weight": 1,
+      "tags": ["personnage", "style", "session-entiere"]
+    },
+    {
+      "id": "scene-de-crime",
+      "title": "Scène de Crime",
+      "emoji": "🕵️",
+      "tagline": "Personne ne quitte cette pile.",
+      "path": "plugin/skills/scene-de-crime/SKILL.md",
+      "weight": 1,
+      "tags": ["narratif", "immersif", "recurrent"]
     }
   ],
   "combos": [
